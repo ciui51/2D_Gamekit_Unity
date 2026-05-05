@@ -403,6 +403,13 @@ MonoBehaviour:
       Data3: 0
       Data4: 0
     Path: 
+  playerAttackRanged:
+    Guid:
+      Data1: 665543579
+      Data2: 1096053324
+      Data3: -1260401016
+      Data4: -481207146
+    Path: event:/SFX/Player/PlayerRangedAttack
   playerHurt:
     Guid:
       Data1: 0
