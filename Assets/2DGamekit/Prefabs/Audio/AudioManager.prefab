@@ -51,7 +51,7 @@ MonoBehaviour:
       Data2: 1181536418
       Data3: -69715831
       Data4: -2142098628
-    Path: event:/SFX/Enviornment/AmbianceOutdoor
+    Path: event:/AMB/AmbianceOutdoor
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
