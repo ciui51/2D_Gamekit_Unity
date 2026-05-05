@@ -29060,7 +29060,7 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerFootsteps.Path
-      value: event:/SFX/AvatarFootsteps
+      value: event:/SFX/Player/PlayerFootsteps
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
