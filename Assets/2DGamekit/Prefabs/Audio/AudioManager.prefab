@@ -475,11 +475,11 @@ MonoBehaviour:
     Path: 
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2063771957
+      Data2: 1283338552
+      Data3: 2023540397
+      Data4: -1293023070
+    Path: event:/SFX/UI/MenuClick
   menuStartGame:
     Guid:
       Data1: 0
