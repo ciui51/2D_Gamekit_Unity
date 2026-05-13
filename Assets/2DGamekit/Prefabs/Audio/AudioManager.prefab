@@ -377,11 +377,11 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1562491470
+      Data2: 1116952473
+      Data3: -2126187102
+      Data4: 2011129579
+    Path: event:/SFX/Player/PlayerFootsteps
   playerJump:
     Guid:
       Data1: 0
