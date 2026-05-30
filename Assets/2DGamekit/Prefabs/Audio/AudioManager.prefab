@@ -391,11 +391,11 @@ MonoBehaviour:
     Path: 
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1566963498
+      Data2: 1103909359
+      Data3: 1566400655
+      Data4: 965574399
+    Path: event:/SFX/Player/PlayerLand
   playerAttackMelee:
     Guid:
       Data1: 0
