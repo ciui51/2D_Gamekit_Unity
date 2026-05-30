@@ -384,11 +384,11 @@ MonoBehaviour:
     Path: event:/SFX/Player/PlayerFootsteps
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2106551252
+      Data2: 1078246204
+      Data3: 950250409
+      Data4: 1186591134
+    Path: event:/SFX/Player/PlayerJump
   playerLand:
     Guid:
       Data1: -1566963498
@@ -398,11 +398,11 @@ MonoBehaviour:
     Path: event:/SFX/Player/PlayerLand
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 658753618
+      Data2: 1315169301
+      Data3: 1932149694
+      Data4: 1788751226
+    Path: event:/SFX/Player/PlayerMeleeAttack
   playerAttackRanged:
     Guid:
       Data1: 665543579
@@ -412,67 +412,67 @@ MonoBehaviour:
     Path: event:/SFX/Player/PlayerRangedAttack
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1041980968
+      Data2: 1264488245
+      Data3: 1251799449
+      Data4: -1866131994
+    Path: event:/SFX/Player/PlayerTakeDamage
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 183788985
+      Data2: 1215540877
+      Data3: 1458675128
+      Data4: 1090849769
+    Path: event:/SFX/Interactables/WallDestroy
   pickupHealth:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -528119469
+      Data2: 1149952551
+      Data3: -234683004
+      Data4: 1137794540
+    Path: event:/SFX/Interactables/PickupHealth
   doorSwitch:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2009047116
+      Data2: 1208850168
+      Data3: 5872033
+      Data4: -2118488426
+    Path: event:/SFX/Interactables/DoorSwitch
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1607429110
+      Data2: 1100144075
+      Data3: 873079986
+      Data4: -1251528194
+    Path: event:/SFX/Interactables/DoorOpen
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1521613526
+      Data2: 1122331307
+      Data3: 569079724
+      Data4: 400414268
+    Path: event:/SFX/Interactables/PickupKey
   pressurePad:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1994275830
+      Data2: 1083547452
+      Data3: -1915932499
+      Data4: 229807561
+    Path: event:/SFX/Interactables/PressurePlate
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -150943064
+      Data2: 1260046266
+      Data3: -198461253
+      Data4: 951970321
+    Path: event:/SFX/Enviornment/AcidPoolSplash
   boxPush:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 618514760
+      Data2: 1341002104
+      Data3: -1678892123
+      Data4: -1559930980
+    Path: event:/SFX/Interactables/PushBox
   menuClick:
     Guid:
       Data1: -2063771957
