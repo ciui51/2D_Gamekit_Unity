@@ -29107,6 +29107,11 @@ PrefabInstance:
       propertyPath: EventReference.Guid.Data4
       value: 292443361
       objectReference: {fileID: 0}
+    - target: {fileID: 8423855694722423620, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: m_TagString
+      value: AmbianceCave
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

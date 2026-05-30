@@ -370,6 +370,7 @@ MonoBehaviour:
   combatTimerLength: 3
   eventEmitters:
     ambiance: {fileID: 6820323988808296485}
+    ambianceCave: {fileID: 0}
     musicMenu: {fileID: 110158806593295546}
     music: {fileID: 5158617837186310920}
     music02: {fileID: 8933774022352548864}
@@ -678,7 +679,7 @@ GameObject:
   - component: {fileID: 1244574866604997032}
   m_Layer: 0
   m_Name: AmbianceCave
-  m_TagString: Ambiance
+  m_TagString: AmbianceCave
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
