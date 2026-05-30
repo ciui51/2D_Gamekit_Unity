@@ -493,28 +493,28 @@ MonoBehaviour:
       Data2: 1287077925
       Data3: -1741747295
       Data4: 913071168
-    Path: event:/SFX/Enemy/ChomperWalk
+    Path: event:/SFX/Enemy/EnemyWalk
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2091807135
+      Data2: 1140267144
+      Data3: 99702710
+      Data4: -109577058
+    Path: event:/SFX/Enemy/SpitterAttack
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1934841062
+      Data2: 1171598271
+      Data3: -1419936353
+      Data4: 110151057
+    Path: event:/SFX/Enemy/ChomperAttack
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1432759550
+      Data2: 1177673379
+      Data3: 334057615
+      Data4: -166068111
+    Path: event:/SFX/Enemy/EnemyKilled
   stingerGameOver:
     Guid:
       Data1: 715162006
