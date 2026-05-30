@@ -482,18 +482,18 @@ MonoBehaviour:
     Path: event:/SFX/UI/MenuClick
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -41167641
+      Data2: 1337707675
+      Data3: 1577715852
+      Data4: 847114905
+    Path: event:/SFX/UI/MenuStart
   enemyFootstep:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1043048310
+      Data2: 1287077925
+      Data3: -1741747295
+      Data4: 913071168
+    Path: event:/SFX/Enemy/ChomperWalk
   enemyRanged:
     Guid:
       Data1: 0
