@@ -16,6 +16,7 @@ public class AudioManager : MonoBehaviour
     public struct Emitters
     {
         public StudioEventEmitter ambiance; 
+        public StudioEventEmitter ambianceCave;
         public StudioEventEmitter musicMenu;
         public StudioEventEmitter music;
         public StudioEventEmitter music02;
