@@ -29085,27 +29085,27 @@ PrefabInstance:
     - target: {fileID: 6820323988808296485, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: EventReference.Path
-      value: event:/SFX/AMB/AmbianceIndoor
+      value: event:/SFX/AMB/AmbianceOutdoor
       objectReference: {fileID: 0}
     - target: {fileID: 6820323988808296485, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: EventReference.Guid.Data1
-      value: 911709487
+      value: -58504095
       objectReference: {fileID: 0}
     - target: {fileID: 6820323988808296485, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: EventReference.Guid.Data2
-      value: 1090689373
+      value: 1181536418
       objectReference: {fileID: 0}
     - target: {fileID: 6820323988808296485, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: EventReference.Guid.Data3
-      value: -195861324
+      value: -69715831
       objectReference: {fileID: 0}
     - target: {fileID: 6820323988808296485, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: EventReference.Guid.Data4
-      value: 292443361
+      value: -2142098628
       objectReference: {fileID: 0}
     - target: {fileID: 8423855694722423620, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
