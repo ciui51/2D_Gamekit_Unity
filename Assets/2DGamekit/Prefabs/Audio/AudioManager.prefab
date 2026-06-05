@@ -474,7 +474,7 @@ MonoBehaviour:
       Data2: 1341002104
       Data3: -1678892123
       Data4: -1559930980
-    Path: event:/SFX/Interactables/PushBox
+    Path: event:/SFX/Interactables/BoxMove
   menuClick:
     Guid:
       Data1: -2063771957
